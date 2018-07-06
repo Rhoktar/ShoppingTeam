@@ -650,20 +650,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dennis\\.nuget\\packages\\": {}
+    "C:\\Users\\bwpc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dennis\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\ShoppingTeam.Android.csproj",
+      "projectUniqueName": "C:\\Users\\bwpc\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\ShoppingTeam.Android.csproj",
       "projectName": "ShoppingTeam.Android",
-      "projectPath": "C:\\Users\\Dennis\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\ShoppingTeam.Android.csproj",
-      "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dennis\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\obj\\",
+      "projectPath": "C:\\Users\\bwpc\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\ShoppingTeam.Android.csproj",
+      "packagesPath": "C:\\Users\\bwpc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bwpc\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Dennis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bwpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
