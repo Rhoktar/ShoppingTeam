@@ -19,7 +19,7 @@ namespace ShoppingTeam.Services
             {
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Bananen", Description="Yummy." , Menge = "1 Stk.", Kategorie=Kategorien.Obst},
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Salami", Description="Rund und rot.", Menge = "1 Pkg.", Kategorie=Kategorien.Fleisch },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Milch", Description="This is an item description.", Menge = "1 Liter", Kategorie=Kategorien.Kühlregal },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Milch", Description="Weiß und kuhig.", Menge = "1 Liter", Kategorie=Kategorien.Kühlregal },
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Bier", Description="This is an item description.", Menge = "6 pack", Kategorie=Kategorien.Getränke },
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth item", Description="This is an item description." },
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Erdbeeren", Description="Rot und saftig.", Menge = "1 Schale"},
