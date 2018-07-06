@@ -4,7 +4,7 @@
             xmlns:views="clr-namespace:ShoppingTeam.Views"
             x:Class="ShoppingTeam.Views.MainPage">
     <TabbedPage.Children>
-        <NavigationPage Title="Browse">
+        <NavigationPage Title="Einkaufsliste">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_feed.png"/>
