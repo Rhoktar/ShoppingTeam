@@ -22,7 +22,7 @@ namespace ShoppingTeam.Services
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Milch", Description="This is an item description.", Menge = "1 Liter", Kategorie=Kategorien.Kühlregal },
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Bier", Description="This is an item description.", Menge = "6 pack", Kategorie=Kategorien.Getränke },
                 new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth item", Description="This is an item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Erdbeeren", Description="Rot und saftig.", Menge = "1 Schale"},
             };
 
             foreach (var item in mockItems)

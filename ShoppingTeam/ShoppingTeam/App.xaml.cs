@@ -1,35 +1,35 @@
-﻿using System;
-using Xamarin.Forms;
-using ShoppingTeam.Views;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms.Xaml;
 
-[assembly: XamlCompilation (XamlCompilationOptions.Compile)]
+[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
+
 namespace ShoppingTeam
 {
-	public partial class App : Application
-	{
-		
-		public App ()
-		{
-			InitializeComponent();
+    using ShoppingTeam.Views;
 
+    using Xamarin.Forms;
 
-			MainPage = new MainPage();
-		}
+    public partial class App : Application
+    {
+        public App()
+        {
+            this.InitializeComponent();
 
-		protected override void OnStart ()
-		{
-			// Handle when your app starts
-		}
+            this.MainPage = new MainPage();
+        }
 
-		protected override void OnSleep ()
-		{
-			// Handle when your app sleeps
-		}
+        protected override void OnResume()
+        {
+            // Handle when your app resumes
+        }
 
-		protected override void OnResume ()
-		{
-			// Handle when your app resumes
-		}
-	}
+        protected override void OnSleep()
+        {
+            // Handle when your app sleeps
+        }
+
+        protected override void OnStart()
+        {
+            // Handle when your app starts
+        }
+    }
 }
