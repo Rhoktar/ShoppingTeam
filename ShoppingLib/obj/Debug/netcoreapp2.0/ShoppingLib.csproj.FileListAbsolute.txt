@@ -1,0 +1,9 @@
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\bin\Debug\netcoreapp2.0\ShoppingLib.deps.json
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\bin\Debug\netcoreapp2.0\ShoppingLib.dll
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.csprojAssemblyReference.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.csproj.CoreCompileInputs.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.AssemblyInfoInputs.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.AssemblyInfo.cs
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\bin\Debug\netcoreapp2.0\ShoppingLib.pdb
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.dll
+C:\Users\bwpc\source\repos\ShoppingTeam\ShoppingLib\obj\Debug\netcoreapp2.0\ShoppingLib.pdb
