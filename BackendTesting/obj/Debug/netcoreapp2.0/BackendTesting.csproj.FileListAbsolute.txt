@@ -1,0 +1,14 @@
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\BackendTesting.deps.json
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\BackendTesting.runtimeconfig.json
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\BackendTesting.runtimeconfig.dev.json
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\BackendTesting.dll
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\BackendTesting.pdb
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\ShoppingLib.dll
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\bin\Debug\netcoreapp2.0\ShoppingLib.pdb
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.csprojAssemblyReference.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.csproj.CoreCompileInputs.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.AssemblyInfoInputs.cache
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.AssemblyInfo.cs
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.csproj.CopyComplete
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.dll
+C:\Users\bwpc\source\repos\ShoppingTeam\BackendTesting\obj\Debug\netcoreapp2.0\BackendTesting.pdb
