@@ -13,7 +13,7 @@
 namespace ShoppingTeam.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\bwpc\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam\\Views\\ItemsPage" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\bwpc\\source\\repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam\\Views\\ItemsPage" +
         ".xaml")]
     public partial class ItemsPage : global::Xamarin.Forms.ContentPage {
         

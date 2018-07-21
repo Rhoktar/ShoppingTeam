@@ -15,7 +15,7 @@ namespace ShoppingLib
             if (dbCon.IsConnect())
             {
                 //suppose col0 and col1 are defined as VARCHAR in the DB
-                string query = "SELECT name,category FROM items";
+                string query = "SELECT Name,Kategorie FROM Objekt_Typen";
                 var cmd = new MySqlCommand(query, dbCon.Connection);
                 var reader = cmd.ExecuteReader();
                 while (reader.Read())
@@ -34,11 +34,11 @@ namespace ShoppingLib
             if (dbCon.IsConnect())
             {
                 //suppose col0 and col1 are defined as VARCHAR in the DB
-                string query = "INSERT INTO items(name, amount, category) VALUES (@name, @amount, @category)";
+                string query = "INSERT INTO Objekt_Typen(Name, Standard_Menge, Kategorie) VALUES (@Name, @Standard_Menge, @Kategorie)";
                 var cmd = new MySqlCommand(query, dbCon.Connection);
-                cmd.Parameters.AddWithValue("@name", "Bananen");
-                cmd.Parameters.AddWithValue("@amount", "6 Stk");
-                cmd.Parameters.AddWithValue("@category", "Obst");
+                cmd.Parameters.AddWithValue("@Name", "Äpfel");
+                cmd.Parameters.AddWithValue("@Standard_Menge", "5");
+                cmd.Parameters.AddWithValue("@Kategorie", "Obst");
                 cmd.ExecuteNonQuery();
                 dbCon.Close();
             }

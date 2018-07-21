@@ -14,15 +14,26 @@
                 <views:ItemsPage />
             </x:Arguments>
         </NavigationPage>
-        
-        <NavigationPage Title="About">
+
+        <NavigationPage Title="Wunschliste">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_about.png"/>
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
-                <views:AboutPage />
+                <views:WunschlistePage />
+            </x:Arguments>
+        </NavigationPage>
+
+        <NavigationPage Title="Wunschliste2">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_about.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:Wunschliste2Page />
             </x:Arguments>
         </NavigationPage>
     </TabbedPage.Children>

@@ -13,7 +13,7 @@
 namespace ShoppingTeam.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\bwpc\\Source\\Repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam\\Views\\MainPage." +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\bwpc\\source\\repos\\ShoppingTeam\\ShoppingTeam\\ShoppingTeam\\Views\\MainPage." +
         "xaml")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
